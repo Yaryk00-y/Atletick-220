@@ -6,12 +6,6 @@
 body{
     background: black;
 }
-.name{
-    font-family: Arial;
-    font-size: 40px;
-    display: flex;
-    justify-content: center;  
-}
 .container{
     display: flex;
     flex-wrap: wrap;
