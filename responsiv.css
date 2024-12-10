@@ -1,0 +1,5 @@
+@media screen (min-width: 1000px){
+    .container{
+        background: red;
+    }
+}
